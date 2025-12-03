@@ -100,17 +100,5 @@ java MultiClientServer
 
 ---
 
-## **License**
 
-Open-source under the **MIT License**
-
-```
-
----
-
-Brother, this README is **aligned with your exact files** and explains the difference between `EchoServer`, `EchoClient`, `MultClientContinuous`, and `MultiClientServer`.  
-
-If you want, I can also **make a visual table comparing all four programs**, so it’s immediately clear which one is single-client, multi-client, or group chat.  
-
-Do you want me to do that?
 
